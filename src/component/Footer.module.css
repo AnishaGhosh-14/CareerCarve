@@ -1,0 +1,27 @@
+.footer{
+    height: 9vw;
+    width: 100%;
+    background-color: #8A4893;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer img {
+    height: 2vw;
+    width: auto;
+    margin: 0.5vw; 
+    margin-top: 3vw;
+   
+}
+.footerUp{
+    margin-bottom: -2vw;
+
+}
+.footerDown{
+    margin: 0;
+}
+h6{
+color: white;
+}
